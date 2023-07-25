@@ -1,0 +1,184 @@
+2023-07-23 20:07:377 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-23 20:07:141 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-23 20:07:364 INFO  HomePage :75 - clickOnJackets
+2023-07-23 21:07:779 INFO  JacketPage :32 - Before filter list
+2023-07-23 21:07:513 INFO  JacketPage :48 - After filter list
+2023-07-23 21:07:679 INFO  JacketPage :60 - Verify products are displayed in ascending order 
+2023-07-23 21:07:359 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-23 21:07:188 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-23 21:07:363 INFO  HomePage :75 - clickOnJackets
+2023-07-23 21:07:799 INFO  JacketPage :39 - Before filter list
+2023-07-23 21:07:338 INFO  JacketPage :55 - After filter list
+2023-07-23 21:07:503 INFO  JacketPage :67 - Verify products are displayed in ascending order 
+2023-07-23 21:07:177 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-23 21:07:890 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-23 21:07:140 INFO  HomePage :75 - clickOnJackets
+2023-07-23 21:07:856 INFO  JacketPage :39 - Before filter list
+2023-07-23 21:07:466 INFO  JacketPage :55 - After filter list
+2023-07-23 21:07:602 INFO  JacketPage :67 - Verify products are displayed in ascending order 
+2023-07-23 21:07:904 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-23 21:07:558 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-23 21:07:865 INFO  HomePage :75 - clickOnJackets
+2023-07-23 21:07:535 INFO  JacketPage :70 - Before filter product list
+2023-07-23 21:07:91 INFO  JacketPage :80 - After filter product list
+2023-07-23 21:07:231 INFO  JacketPage :92 - Verify products are displayed in Low To High Order 
+2023-07-23 22:07:936 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 22:07:667 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 22:07:248 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 22:07:385 INFO  HomePage :57 - clickOnPants
+2023-07-23 22:07:617 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 22:07:145 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 22:07:463 INFO  HomePage :57 - clickOnPants
+2023-07-23 22:07:144 INFO  PantsPage :32 - hoverAndClickProduct
+2023-07-23 22:07:887 INFO  PantsPage :40 - hoverAndClickProductColour
+2023-07-23 22:07:548 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 22:07:287 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 22:07:504 INFO  HomePage :57 - clickOnPants
+2023-07-23 22:07:206 INFO  PantsPage :32 - hoverAndClickProduct
+2023-07-23 22:07:961 INFO  PantsPage :40 - hoverAndClickProductColour
+2023-07-23 22:07:277 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-23 22:07:185 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 22:07:899 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 22:07:102 INFO  HomePage :57 - clickOnPants
+2023-07-23 22:07:530 INFO  PantsPage :32 - hoverAndClickProduct
+2023-07-23 22:07:409 INFO  PantsPage :40 - hoverAndClickProductColour
+2023-07-23 22:07:705 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-23 22:07:34 INFO  PantsPage :55 - getTextAddedPantToShoppingCart
+2023-07-23 22:07:404 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 22:07:07 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 22:07:159 INFO  HomePage :57 - clickOnPants
+2023-07-23 22:07:190 INFO  PantsPage :32 - hoverAndClickProduct
+2023-07-23 22:07:577 INFO  PantsPage :40 - hoverAndClickProductColour
+2023-07-23 22:07:846 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-23 22:07:148 INFO  PantsPage :60 - clickOnShoppingCart
+2023-07-23 23:07:372 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 23:07:102 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 23:07:260 INFO  HomePage :57 - clickOnPants
+2023-07-23 23:07:684 INFO  PantsPage :32 - hoverAndClickProduct
+2023-07-23 23:07:548 INFO  PantsPage :40 - hoverAndClickProductColour
+2023-07-23 23:07:854 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-23 23:07:199 INFO  PantsPage :55 - getTextAddedPantToShoppingCart
+2023-07-23 23:07:98 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-23 23:07:71 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-23 23:07:353 INFO  HomePage :57 - clickOnPants
+2023-07-23 23:07:351 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-23 23:07:239 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-23 23:07:275 INFO  HomePage :87 - clickOnBags
+2023-07-23 23:07:441 INFO  BagsPage :17 - click on product
+2023-07-23 23:07:979 INFO  PantsPage :34 - verifyOvernightDuffleText
+2023-07-23 23:07:530 INFO  PantsPage :34 - verifyOvernightDuffleText
+2023-07-23 23:07:45 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-23 23:07:196 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:789 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:982 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:567 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:741 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:575 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:739 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:659 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:834 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:577 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:744 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:779 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:786 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:958 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:499 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 09:07:674 INFO  HomePage :87 - clickOnBags
+2023-07-24 09:07:822 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 09:07:487 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 09:07:653 INFO  HomePage :57 - clickOnPants
+2023-07-24 09:07:879 INFO  PantsPage :32 - hoverAndClickProduct
+2023-07-24 09:07:425 INFO  PantsPage :40 - hoverAndClickProductColour
+2023-07-24 09:07:770 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-24 09:07:169 INFO  PantsPage :60 - clickOnShoppingCart
+2023-07-24 09:07:668 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 09:07:301 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 09:07:493 INFO  HomePage :57 - clickOnPants
+2023-07-24 09:07:911 INFO  PantsPage :33 - hoverAndClickProduct
+2023-07-24 09:07:376 INFO  PantsPage :41 - hoverAndClickProductColour
+2023-07-24 09:07:706 INFO  PantsPage :49 - hoverAndClickOnAddToCartButton
+2023-07-24 09:07:111 INFO  PantsPage :61 - clickOnShoppingCart
+2023-07-24 09:07:715 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 09:07:342 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 09:07:536 INFO  HomePage :57 - clickOnPants
+2023-07-24 09:07:762 INFO  PantsPage :35 - hoverAndClickProduct
+2023-07-24 09:07:335 INFO  PantsPage :42 - hoverAndClickProductColour
+2023-07-24 09:07:708 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-24 09:07:109 INFO  PantsPage :59 - clickOnShoppingCart
+2023-07-24 10:07:197 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 10:07:990 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 10:07:144 INFO  HomePage :57 - clickOnPants
+2023-07-24 10:07:501 INFO  PantsPage :35 - hoverAndClickProduct
+2023-07-24 10:07:174 INFO  PantsPage :42 - hoverAndClickProductColour
+2023-07-24 10:07:537 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-24 10:07:937 INFO  PantsPage :59 - clickOnShoppingCart
+2023-07-24 10:07:531 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 10:07:87 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 10:07:290 INFO  HomePage :57 - clickOnPants
+2023-07-24 10:07:566 INFO  PantsPage :35 - hoverAndClickProduct
+2023-07-24 10:07:63 INFO  PantsPage :42 - hoverAndClickProductColour
+2023-07-24 10:07:242 INFO  PantsPage :48 - hoverAndClickOnAddToCartButton
+2023-07-24 10:07:641 INFO  PantsPage :59 - clickOnShoppingCart
+2023-07-24 10:07:574 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 10:07:63 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 10:07:259 INFO  HomePage :57 - clickOnPants
+2023-07-24 10:07:405 INFO  PantsPage :36 - hoverAndClickProduct
+2023-07-24 10:07:86 INFO  PantsPage :43 - hoverAndClickProductColour
+2023-07-24 10:07:278 INFO  PantsPage :49 - hoverAndClickOnAddToCartButton
+2023-07-24 10:07:703 INFO  PantsPage :60 - clickOnShoppingCart
+2023-07-24 10:07:48 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 10:07:238 INFO  HomePage :87 - clickOnBags
+2023-07-24 10:07:288 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 10:07:488 INFO  HomePage :87 - clickOnBags
+2023-07-24 10:07:627 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 10:07:813 INFO  HomePage :87 - clickOnBags
+2023-07-24 10:07:660 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 10:07:859 INFO  HomePage :87 - clickOnBags
+2023-07-24 10:07:788 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 10:07:964 INFO  HomePage :87 - clickOnBags
+2023-07-24 10:07:320 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 10:07:592 INFO  HomePage :87 - clickOnBags
+2023-07-24 11:07:336 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 11:07:544 INFO  HomePage :87 - clickOnBags
+2023-07-24 11:07:997 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 11:07:49 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 11:07:244 INFO  HomePage :57 - clickOnPants
+2023-07-24 11:07:232 INFO  PantsPage :36 - hoverAndClickProduct
+2023-07-24 11:07:48 INFO  PantsPage :43 - hoverAndClickProductColour
+2023-07-24 11:07:292 INFO  PantsPage :49 - hoverAndClickOnAddToCartButton
+2023-07-24 11:07:732 INFO  PantsPage :60 - clickOnShoppingCart
+2023-07-24 11:07:308 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-24 11:07:332 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-24 11:07:556 INFO  HomePage :75 - clickOnJackets
+2023-07-24 11:07:871 INFO  JacketPage :39 - Before filter list
+2023-07-24 11:07:619 INFO  JacketPage :55 - After filter list
+2023-07-24 11:07:933 INFO  JacketPage :67 - Verify products are displayed in ascending order 
+2023-07-24 11:07:481 INFO  HomePage :81 - mouseHOverOnGearManu
+2023-07-24 11:07:895 INFO  HomePage :87 - clickOnBags
+2023-07-24 11:07:938 INFO  BagsPage :18 - click on product
+2023-07-24 11:07:570 INFO  PantsPage :35 - verifyOvernightDuffleText
+2023-07-24 11:07:21 INFO  PantsPage :40 - changeQuantity
+2023-07-24 11:07:339 INFO  PantsPage :47 - addToCart
+2023-07-24 11:07:677 INFO  PantsPage :53 - verifyProductAddText
+2023-07-24 11:07:66 INFO  PantsPage :58 - clickOnShoppingCart
+2023-07-24 11:07:36 INFO  ShoppingCartPage :74 - verifyTheProductName
+2023-07-24 11:07:478 INFO  ShoppingCartPage :78 - verifyTheProductQty
+2023-07-24 11:07:362 INFO  HomePage :45 - mouse hoover to men menu
+2023-07-24 11:07:313 INFO  HomePage :51 - mousehoover to men bottoms
+2023-07-24 11:07:596 INFO  HomePage :57 - clickOnPants
+2023-07-24 11:07:529 INFO  PantsPage :36 - hoverAndClickProduct
+2023-07-24 11:07:609 INFO  PantsPage :43 - hoverAndClickProductColour
+2023-07-24 11:07:832 INFO  PantsPage :49 - hoverAndClickOnAddToCartButton
+2023-07-24 11:07:311 INFO  PantsPage :60 - clickOnShoppingCart
+2023-07-24 11:07:32 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-24 11:07:843 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-24 11:07:106 INFO  HomePage :75 - clickOnJackets
+2023-07-24 11:07:898 INFO  JacketPage :39 - Before filter list
+2023-07-24 11:07:813 INFO  JacketPage :55 - After filter list
+2023-07-24 11:07:147 INFO  JacketPage :67 - Verify products are displayed in ascending order 
+2023-07-24 11:07:84 INFO  HomePage :63 - mouseHoverOnWomenMenu
+2023-07-24 11:07:169 INFO  HomePage :69 - mouseHoverOnTops
+2023-07-24 11:07:402 INFO  HomePage :75 - clickOnJackets
+2023-07-24 11:07:710 INFO  JacketPage :70 - Before filter product list
+2023-07-24 11:07:626 INFO  JacketPage :80 - After filter product list
+2023-07-24 11:07:937 INFO  JacketPage :92 - Verify products are displayed in Low To High Order 
